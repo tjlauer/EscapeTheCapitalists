@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 34335970e765487488665b770b484685
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myMana: {fileID: 8072029953960158663, guid: da4069b9d70be034c90ccb0b2c3fcc3c,
+      type: 3}
+  - PlayerMinion: {instanceID: 0}
+  - PlayerHand: {instanceID: 0}
+  - Card: {fileID: 5562670252239402960, guid: 96b906cf138ac3b48a1f33be43cffc34, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

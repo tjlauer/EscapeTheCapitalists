@@ -1,0 +1,17 @@
+﻿CardId,ImagePath,Name,Description,SummonCost,Attack,Health
+M000001,CardArt/NoImage,Ice Golem,Freeze - Has a chance to freeze the enemy for a turn upon attacking,6,1,1
+M000002,CardArt/EarthGolem,Earth Golem,n/a,4,1,1
+M000003,CardArt/NoImage,Fenrir,Gains +? +? for every other Fenrir on the field,4,1,1
+M000004,CardArt/NoImage,Fire Elemental,Burn - Has a chance to inflict burn on the enemy upon attacking,5,1,1
+M000005,CardArt/NoImage,Banshee,Confuse - Has a chance to inflict confusion on the enemy upon attacking,8,1,1
+M000006,CardArt/UndeadKnight,Undead Knight,n/a,3,1,1
+M000007,CardArt/DionaeaMuscipula,Mutant Dionaea Muscipula,n/a,4,1,1
+M000008,CardArt/NoImage,Starfall,n/a,3,1,1
+M000009,CardArt/NoImage,Commander,n/a,5,1,1
+M000010,CardArt/SteelStamper,Steel Stamper,n/a,6,1,1
+M000011,CardArt/NoImage,Super Trooper,n/a,4,1,1
+M000012,CardArt/Inniaz,Inniaz,n/a,4,1,1
+M000013,CardArt/NoImage,Fairies,Mitosis - Chance to spawn an extra one or two fairies,2,1,1
+M000014,CardArt/NoImage,Dictator,n/a,8,1,1
+M000015,CardArt/NoImage,Medic,Bubble - Increases the health of each minion on your side,4,1,1
+M000016,CardArt/NoImage,Rocket,Self Destruct - Select a monster and do 2x this minion's attack as damage. Destroy this minion.,1,1,1

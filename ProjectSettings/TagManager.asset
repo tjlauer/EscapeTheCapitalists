@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Rooms
+  - Enemies
+  - MovePoints
+  - Logic
+  - GAME TITLE
+  - Treasure
+  - Transporter
+  - EnemySpawner
+  - UI
+  - UIHealthDisplay
+  - UICardCountDisplay
+  - UIRoomCountDisplay
+  - UIPauseMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collison
+  - PlayerCards
+  - Zoom
+  - Enemies
+  - GAME TITLE
+  - MonsterCards
+  - PostProcessing
+  - Treasuer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MovePoints
+    uniqueID: 2896388871
+    locked: 0
+  - name: Objects
+    uniqueID: 1812214849
+    locked: 0
+  - name: Treasuer
+    uniqueID: 643109957
+    locked: 0
+  - name: Enemy
+    uniqueID: 561196873
+    locked: 0
+  - name: Weapon
+    uniqueID: 2824522011
+    locked: 0
+  - name: Player
+    uniqueID: 859003053
+    locked: 0
+  - name: Enemies
+    uniqueID: 1343156181
+    locked: 0
+  - name: Game Title
+    uniqueID: 609045775
+    locked: 0
+  - name: UI
+    uniqueID: 2273681583
+    locked: 0

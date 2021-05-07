@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2e49002a51cc87f4a91776f934839a07
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Canvas: {instanceID: 0}
+  - myMana: {fileID: 8072029953960158663, guid: da4069b9d70be034c90ccb0b2c3fcc3c,
+      type: 3}
+  - MonsterCard: {fileID: 5562670252239402960, guid: ba34d142926b5694a92b3c5c71a53a06,
+      type: 3}
+  - EnemyField: {fileID: 889110114137081734, guid: 3e96cbe9ef5727f4980c96144467103e,
+      type: 3}
+  - ManaScript: {instanceID: 0}
+  - HandScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

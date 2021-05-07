@@ -1,0 +1,6 @@
+﻿CardId,Creator,Name,Type,Rarity,SummonCost,Health,Attack,EffectName,EffectDesc,EffectCost,EffectTarget,EffectTargetCount,EffectMagnitude
+S000001,Damien Carlson,Wind Slash,Spell,Common,6,0,1,Damage,Deals damage to target enemy,0,Enemy,1,1
+S000002,Damien Carlson,Fireball,Spell,Common,5,0,1,AOE Damage,Deals damage to target enemy and half damage to enemies next to it,0,Enemy,3,1
+S000003,Damien Carlson,Lightning,Spell,Common,4,0,1,Damage,Deals damage to target enemy,0,Enemy,1,1
+S000004,Braxton Fair,Ancestoral Recall,Spell,Common,7,0,0,Revive,Allow to regain a discarded card,0,Friendly,1,1
+S000005,Braxton Fair,Darkening,Spell,Common,7,0,0,Blind,A chance for the enemy to miss their attack if they are in the dark,0,Enemy,1,1

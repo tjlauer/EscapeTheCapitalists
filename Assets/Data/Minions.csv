@@ -1,0 +1,17 @@
+﻿CardId,Creator,Name,Type,Rarity,SummonCost,Health,Attack,EffectName,EffectDesc,EffectCost,EffectTarget,EffectTargetCount,EffectMagnitude
+M000001,Damien Carlson,Ice Golem,Minion,Common,6,1,1,Freeze,Has a chance to freeze the enemy for a turn upon attacking,0,Enemy,1,1
+M000002,Damien Carlson,Earth Golem,Minion,Common,4,1,1,n/a,n/a,-1,n/a,-1,-1
+M000003,Damien Carlson,Fenrir,Minion,Common,4,1,1,Herd,Gains +? +? for every other Fenrir on the field,0,Self,1,1
+M000004,Damien Carlson,Fire Elemental,Minion,Common,5,1,1,Burn,Has a chance to inflict burn on the enemy upon attacking,0,Enemy,1,1
+M000005,Damien Carlson,Banshee,Minion,Common,8,1,1,Confuse,Has a chance to inflict confusion on the enemy upon attacking,0,Enemy,1,1
+M000006,Damien Carlson,Undead Knight,Minion,Common,3,1,1,n/a,n/a,-1,n/a,-1,-1
+M000007,Damien Carlson,Giant Dionaea Muscipula,Minion,Common,4,1,1,n/a,n/a,-1,n/a,-1,-1
+M000008,Braxton Fair,Starfall,Minion,Common,3,1,1,n/a,n/a,-1,n/a,-1,-1
+M000009,Braxton Fair,Commander,Minion,Common,5,1,1,n/a,n/a,-1,n/a,-1,-1
+M000010,Braxton Fair,Steel Stamper,Minion,Common,6,1,1,n/a,n/a,-1,n/a,-1,-1
+M000011,Braxton Fair,Super Trooper,Minion,Common,4,1,1,n/a,n/a,-1,n/a,-1,-1
+M000012,Braxton Fair,Inniaz,Minion,Common,4,1,1,n/a,n/a,-1,n/a,-1,-1
+M000013,Braxton Fair,Fairies,Minion,Common,2,1,1,Mitosis,Chance to spawn an extra one or two fairies,0,Friendly,1,2
+M000014,Braxton Fair,Dictator,Minion,Common,8,1,1,n/a,n/a,-1,n/a,-1,-1
+M000015,Braxton Fair,Medic,Minion,Common,4,1,1,Bubble,Increases the health of each minion on your side,0,Friendly,100,1
+M000016,Dustin Frandle,Rocket,Minion,Common,1,1,1,Gunpowder,Select a monster and do 2x this minion's attack as damage. Destroy this minion.,-1,Enemy,1,1000

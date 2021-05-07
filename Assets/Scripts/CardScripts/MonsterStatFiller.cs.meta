@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8afa2d66fe595e24c93f64bdb38a374d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - imgArt: {instanceID: 0}
+  - txtName: {instanceID: 0}
+  - txtDescription: {instanceID: 0}
+  - txtManaCost: {instanceID: 0}
+  - txtAttack: {instanceID: 0}
+  - txtHealth: {instanceID: 0}
+  - thisSprite: {instanceID: 0}
+  - Hand: {fileID: 6474265662801200712, guid: b4aac89ecd72c1443ad3510c2ac6ce4e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7e9ffaacef7689342a6e72216311ff9b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myMana: {fileID: 8072029953960158663, guid: da4069b9d70be034c90ccb0b2c3fcc3c,
+      type: 3}
+  - Canvas: {instanceID: 0}
+  - dropZone: {fileID: 88272883994874800, guid: d194571af3051164b949d7fa4e69890a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

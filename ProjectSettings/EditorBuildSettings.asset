@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f5e9bb440397323449604191d9a14182
+  - enabled: 0
+    path: Assets/Scenes/DungeonScene.unity
+    guid: 71f1e559f5474154c8c7b921119aacb1
+  - enabled: 1
+    path: Assets/Scenes/InformationScene.unity
+    guid: 2ec9eb4857ea099438001b34faffe77f
+  - enabled: 1
+    path: Assets/Scenes/EncounterScene.unity
+    guid: 0abf366cf6dd5d94cafece4b635e8998
+  - enabled: 1
+    path: Assets/Scenes/Rooms/B.unity
+    guid: d36e6a9bfe60b1144966aa4caeb5bd3a
+  - enabled: 1
+    path: Assets/Scenes/Rooms/E.unity
+    guid: 4d07126353d60c1409625b9a1da7112f
+  - enabled: 1
+    path: Assets/Scenes/Rooms/L.unity
+    guid: 1a7e363951dbe1040bec84e18f0f3beb
+  - enabled: 1
+    path: Assets/Scenes/Rooms/LB.unity
+    guid: af0ab6df1c676b04ea4dc90a17e62c9b
+  - enabled: 1
+    path: Assets/Scenes/Rooms/LR.unity
+    guid: b587ff6c52bebca4a9be70fdae60756a
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Boss.unity
+    guid: 9539387e3face39468102c6d6ad06a50
+  - enabled: 1
+    path: Assets/Scenes/Rooms/LRB.unity
+    guid: 793d09b5a0dde1c43bf041e61ca6467a
+  - enabled: 1
+    path: Assets/Scenes/Rooms/LTB.unity
+    guid: 78545adaf59c30a459b596b512d2689d
+  - enabled: 1
+    path: Assets/Scenes/Rooms/R.unity
+    guid: eba2a21b605efa44c8bb10d713c62ea8
+  - enabled: 1
+    path: Assets/Scenes/Rooms/RB.unity
+    guid: 3b704b29065e1604697b8c4e57417105
+  - enabled: 1
+    path: Assets/Scenes/Rooms/RTB.unity
+    guid: bcc403f3a70f31546ab442cc6d34e815
+  - enabled: 1
+    path: Assets/Scenes/Rooms/T.unity
+    guid: 01aac9e3035fe514987aa7c3a94bbfec
+  - enabled: 1
+    path: Assets/Scenes/Rooms/B 1.unity
+    guid: 17f7105a632c6744e9e68b3a0170c6f0
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Boss.unity
+    guid: 69b839296dcc1cc45b5e98d1d84c6d1a
+  - enabled: 1
+    path: Assets/Scenes/Rooms/E 1.unity
+    guid: 3939ddff51ed72d41893e34ec6cc09cd
+  - enabled: 1
+    path: Assets/Scenes/Rooms/L 1.unity
+    guid: 40e9aec2373ad6f48a3dc296d2a12453
+  - enabled: 1
+    path: Assets/Scenes/Rooms/LB 1.unity
+    guid: 09d4cd8a95f8c5547af9464b8b954ea9
+  - enabled: 1
+    path: Assets/Scenes/Rooms/LR 1.unity
+    guid: 622c0b1510cae954ca49afe42443f127
+  - enabled: 1
+    path: Assets/Scenes/Rooms/LRB 1.unity
+    guid: 88dc79797e9c9194896f913e519e7e8a
+  - enabled: 1
+    path: Assets/Scenes/Rooms/LTB 1.unity
+    guid: 9db7b09d63f0ac648b07bedebe0194bb
+  - enabled: 1
+    path: Assets/Scenes/Rooms/R 1.unity
+    guid: 945efa4d03c49fd4ba29f4923c2ab306
+  - enabled: 1
+    path: Assets/Scenes/Rooms/TRL 1.unity
+    guid: da7fc0ae6301ed54592d4afd934d4400
+  - enabled: 1
+    path: Assets/Scenes/Rooms/TR 1.unity
+    guid: 08b659429cca4c74da909de222699700
+  - enabled: 1
+    path: Assets/Scenes/Rooms/TL 1.unity
+    guid: cf7d22ccd0566764b905ede881553796
+  - enabled: 1
+    path: Assets/Scenes/Rooms/TB 1.unity
+    guid: 126b193175dc24d4fbe9a52e44a6c84a
+  - enabled: 1
+    path: Assets/Scenes/Rooms/T 1.unity
+    guid: 07f447391011a794ab64a1598f388133
+  - enabled: 1
+    path: Assets/Scenes/Rooms/RTB 1.unity
+    guid: 36ed79469747459449841988c504bc32
+  - enabled: 1
+    path: Assets/Scenes/Rooms/RB 1.unity
+    guid: a4479240d8ff71a48bf31af08a564103
+  - enabled: 1
+    path: Assets/Scenes/Rooms/TB.unity
+    guid: 3e0f24c711feb20418f3f8e7d745cdfa
+  - enabled: 1
+    path: Assets/Scenes/Rooms/TL.unity
+    guid: c07ea5942627743488d75b018d1fd3ec
+  - enabled: 1
+    path: Assets/Scenes/Rooms/TR.unity
+    guid: f77d326b2f804ca4e834f1c0ce2e7757
+  - enabled: 1
+    path: Assets/Scenes/Rooms/TRL.unity
+    guid: d8086ae4d17b68a408028faf1c420b13
+  m_configObjects: {}
